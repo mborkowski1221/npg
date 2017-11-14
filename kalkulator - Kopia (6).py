@@ -3,7 +3,7 @@
 print "....:::::KALKULATOR::::...."
  
 def menu():
-    print "::MENU::"
+    print "::MeeeeeeeeeeeNU::"
     print "1 - dodawanie"
     print "2 - odejmowanie"
     print "3 - mnożenie"

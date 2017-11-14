@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 #-*- coding: utf-8 -*-
-print "....:::::KALKULATOR::::...."
+print "....:::::KALKULAaaTOR::::...."
  
 def menu():
     print "::MENU::"
@@ -10,7 +10,11 @@ def menu():
     print "4 - dzielenie"
     print "5 - dzielenie całkowite"
     print "6 - potęgowanie"
+<<<<<<< HEAD
     print "7 - auuuuuuuuuutor"
+=======
+    print "7 - autor"
+>>>>>>> remotes/origin/branch2
     print "8 - o programie"
     print "9 - koniec"
     print "0 - MENU"

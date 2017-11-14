@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 #-*- coding: utf-8 -*-
-print "....:::::KALKULATOR::::...."
+print "....:::::KALKULATORRRRRRRRRRRRRRRRRRR::::...."
  
 def menu():
     print "::MENU::"

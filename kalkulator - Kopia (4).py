@@ -3,12 +3,16 @@
 print "....:::::KALKULATOR::::...."
  
 def menu():
-    print "::MENU::"
+    print "::MEnnnnnnnnnnnnnnnnnNU::"
     print "1 - dodawanie"
     print "2 - odejmowanie"
     print "3 - mnożenie"
     print "4 - dzielenie"
+<<<<<<< HEAD
     print "5 - dzielenie całlllllllllkowite"
+=======
+    print "5 - dzielenie całkowite"
+>>>>>>> remotes/origin/branch2
     print "6 - potęgowanie"
     print "7 - autor"
     print "8 - o programie"
