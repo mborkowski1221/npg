@@ -1,15 +1,15 @@
 #!/usr/bin/env python
 #-*- coding: utf-8 -*-
-print "....:::::KALKULATOR::::...."
+print "....:::::kkkkkkkkkkKALKULATOR::::...."
  
 def menu():
     print "::MENU::"
     print "1 - dodawanie"
     print "2 - odejmowanie"
-    print "3 - mnoøenie"
+    print "3 - mno≈ºenie"
     print "4 - dzielenie"
-    print "5 - dzielenie ca≥kowite"
-    print "6 - potÍgowanie"
+    print "5 - dzielenie ca≈Çkowite"
+    print "6 - potƒôgowanie"
     print "7 - autor"
     print "8 - o programie"
     print "9 - koniec"
@@ -46,7 +46,7 @@ def dzieleniecal():
     return wynik
 def potegowanie():
     a = raw_input("Liczba ")
-    b = raw_input("PotÍga ")
+    b = raw_input("Potƒôga ")
     wynik = float(a)**float(b)
     return wynik
 def autor():
@@ -61,14 +61,14 @@ def program():
 print menu()
 operacja = raw_input("Co wybierzesz ? ")
 while operacja<>"9":
-    if operacja=="1": print ":::wybra≥eú dodawanie:::\n",dodawanie()
-    elif operacja=="2": print ":::wybra≥eú odejmowanie:::\n",odejmowanie()
-    elif operacja=="3": print ":::wybra≥eú mnoøenie:::\n",mnozenie()
-    elif operacja=="4": print ":::wybra≥eú dzielenie :::\n",dzielenie()
-    elif operacja=="5": print ":::wybra≥eú dzielenie calkowite:::\n",dzieleniecal()
-    elif operacja=="6": print ":::wybra≥eú potegowanie:::\n",potegowanie()
-    elif operacja=="7": print ":::wybra≥eú autor:::\n",autor()
-    elif operacja=="8": print ":::wybra≥eú O programie:::\n",program()
+    if operacja=="1": print ":::wybra≈Çe≈õ dodawanie:::\n",dodawanie()
+    elif operacja=="2": print ":::wybra≈Çe≈õ odejmowanie:::\n",odejmowanie()
+    elif operacja=="3": print ":::wybra≈Çe≈õ mno≈ºenie:::\n",mnozenie()
+    elif operacja=="4": print ":::wybra≈Çe≈õ dzielenie :::\n",dzielenie()
+    elif operacja=="5": print ":::wybra≈Çe≈õ dzielenie calkowite:::\n",dzieleniecal()
+    elif operacja=="6": print ":::wybra≈Çe≈õ potegowanie:::\n",potegowanie()
+    elif operacja=="7": print ":::wybra≈Çe≈õ autor:::\n",autor()
+    elif operacja=="8": print ":::wybra≈Çe≈õ O programie:::\n",program()
     elif operacja=="0": print menu()
     elif operacja=="9": break
     else: print"Error menu"
