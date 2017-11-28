@@ -4,16 +4,16 @@ print "....:::::KALKULAAAATORRRRRRRRRRRRRRRRRRR::::...."
  
 def menu():
     print "::MENU::"
-    print "1 - dodawanie"
-    print "2 - odejmowanie"
-    print "3 - mnożenie"
-    print "4 - dzielenie"
-    print "5 - dzielenie całkowite"
-    print "6 - potęgowanie"
-    print "7 - autor"
-    print "8 - oooooo programie"
-    print "9 - koniec"
-    print "0 - MENU"
+    print "1 - dodadwanie"
+    print "2 - odejmowafnie"
+    print "3 - mnożenrie"
+    print "4 - dzielgenie"
+    print "5 - dzielengfie całkowite"
+    print "6 - potęgdowanie"
+    print "7 - autfor"
+    print "8 - oooocoo programie"
+    print "9 - konriec"
+    print "0 - MENfdU"
     return 
  
 def dodawanie():
